@@ -2,8 +2,9 @@ package examples
 
 import (
 	"fmt"
-	"mygotool/tickers"
 	"time"
+
+	"github.com/huangsuwei/mygotool/tickers"
 )
 
 const TickerName = "example_test"

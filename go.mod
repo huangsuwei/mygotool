@@ -1,4 +1,4 @@
-module mygotool
+module github.com/huangsuwei/mygotool
 
 go 1.16
 

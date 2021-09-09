@@ -1,11 +1,11 @@
 package tickers_test
 
 import (
-	"mygotool/tickers"
 	"testing"
 	"time"
 
-	"mygotool/tickers/examples"
+	"github.com/huangsuwei/mygotool/tickers"
+	"github.com/huangsuwei/mygotool/tickers/examples"
 )
 
 func TestNewTickManage(t *testing.T) {

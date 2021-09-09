@@ -4,7 +4,7 @@ import (
 	"sync"
 	"time"
 
-	"mygotool/task"
+	"github.com/huangsuwei/mygotool/task"
 )
 
 const (
