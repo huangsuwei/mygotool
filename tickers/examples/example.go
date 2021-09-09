@@ -12,7 +12,7 @@ const TickerName = "example_test"
 func GetTickerConfig() tickers.TickConfig {
 	return tickers.TickConfig{
 		Name:     TickerName,
-		Interval: 1 * time.Minute,
+		Interval: 1 * time.Second,
 		Handler:  getTickHandler(),
 	}
 }
